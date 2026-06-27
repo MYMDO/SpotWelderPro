@@ -31,11 +31,5 @@ If you want to download the project click on "clone or download" on this page. D
 You can get parts to build your own Spot Welder or prebuilt kits at [fx.in.ua/spot-welder-pro/](https://www.fx.in.ua/spot-welder-pro/)
 
 > ___
->
-> Sponsor this project:
->
-> [🔗 monobank | 💳 4441 1111 2924 0184 | 🇺🇦](https://send.monobank.ua/jar/6DHmpDk5wq)       
->
-> ___
 
 <a href="https://coindrop.to/mymdo" target="_blank"><img src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 57px !important;width: 229px !important;" alt="Coindrop.to me"></img></a>
